@@ -1,0 +1,66 @@
+body {
+    background-image: url(./img/netflixlogo.0.0-1260x840.png);
+    background-size: 1500px 700px;
+    background-repeat: no-repeat;
+    align-items: center;
+    align-content: center;
+  }
+  .container {
+    width: 100px;
+    margin: 50px auto;
+    padding: 20px;
+    /* border: 2px solid red; */
+    font-family: Verdana ;
+    font-size: 14px;
+    font-weight: 900;
+    
+    border-radius: 20px;
+  }
+  h2,h6, p {
+    text-align: center;
+    color: white;
+    
+  }
+  .container div {
+    text-align: center;
+    color: white;
+
+  }
+  .col-sm-6 form {
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  form {
+    text-align: center;
+    color: white;
+    margin: 0 auto; 
+    width:250px;
+
+  }
+  
+  .input {
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+  }
+  button {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: #268b02;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  #delete{
+    background-color: #a90101;
+  }
+  
+  #display{
+    background-color: #12009d;
+  }
